@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author anousheh
+ * @author anousheh niazi for practice 123456
  */
 public class Form {
 
